@@ -1,4 +1,4 @@
-# DFLINT https://zenodo.org/badge/238878003.svg
+# DFLINT
 A derivative-free algorithm for black-box integer optimization problems
 
-https://zenodo.org/badge/238878003.svg
+[![DOI](https://zenodo.org/badge/238878003.svg)](https://zenodo.org/badge/latestdoi/238878003)
